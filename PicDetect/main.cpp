@@ -10,7 +10,7 @@
 #include <windows.h>
 #include <process.h>
 
-//djslfj
+
 #include "MyLogger.h"
 
 #include<iostream>

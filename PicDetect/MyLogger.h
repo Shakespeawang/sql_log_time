@@ -9,7 +9,7 @@
 #include <log4cplus/helpers/stringhelper.h> 
 
 #define MY_LOG_FILE_PATH "logconfig.properties"
-//jfdk
+
 using namespace std;
 using namespace log4cplus;
 using namespace log4cplus::helpers;
